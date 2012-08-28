@@ -1,1 +1,2 @@
-Hii its my set of scripts for android
+Scripts related to android development
+lj@xda
